@@ -1,0 +1,22 @@
+---
+layout: page
+title: Projects
+permalink: /about/
+---
+
+# Software
+
+- Robot tocapelotas: making collaborative music with robots using Telegram chat (more info [here](https://alvarocaceresmunoz.github.io/robot-tocapelotas/); source code [here](https://github.com/alvarocaceresmunoz/robot-tocapelotas))
+- BachTracking: a livecoding programming language for musicians (coming soon)
+
+# Articles
+- *Designing user experiences: a game engine for the blind* (2017): This was my bachelor thesis, in which I proposed a possible redesign of Godot Engine's UI so that visually impaired users could design videogames in professional game studios. (Download [here](https://mega.nz/#!lbJC2LCa!hL7WqZ0Cnm10Npnq8IK9gZvSCjEZgFlndqR4eZbf2WU)).
+
+# Music
+- Transcriptions and arrangements: a set of transcriptions made from
+  - *Soraya*, arrangement for two pianos (download [here](), source code [here]())
+- Works:
+  - *Mist*, for piano solo (download [here](), source code [here]()).
+
+# Games
+Coming soon
